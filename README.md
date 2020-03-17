@@ -1,5 +1,7 @@
 # job-scraper
-To run locally:
+A job scraping web application that scrapes job listings for entry level positions.
+
+# To run locally:
 Client:
  From root folder, go into client and run "npm start"
 

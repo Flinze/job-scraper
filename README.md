@@ -6,7 +6,7 @@ Client:
 API:
     From root folder, run "node api/index.js"
 
-Redis:
+Redis (only need to do this step once):
     1. Run redis server with: "redis-server" in root
     2. Can run CLI with "redis-cli" in root
 

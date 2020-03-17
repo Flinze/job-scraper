@@ -28,6 +28,6 @@ Node
     - "node-cron" job which is a task scheduler that runs our fetching script every x amount of time (e.g. 1 minute)
         - Found a neat website to figure out scheduler timings: https://crontab.guru/
         
-# Project Screens
+# Project Screenshots
 ![HomePage](https://i.imgur.com/pNflWSd.png)
 ![Pagination](https://i.imgur.com/LVTn1N0.png)

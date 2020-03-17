@@ -1,4 +1,14 @@
 # job-scraper
+To run locally:
+Client:
+ From root folder, go into client and run "npm start"
+
+API:
+    From root folder, run "node api/index.js"
+
+Redis:
+    1. Run redis server with: "redis-server" in root
+    2. Can run CLI with "redis-cli" in root
 
 # Front-end:
 React

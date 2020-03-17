@@ -29,5 +29,5 @@ Node
         - Found a neat website to figure out scheduler timings: https://crontab.guru/
         
 # Project Screens
-![HomePage](https://imgur.com/pNflWSd)
-![Pagination](https://imgur.com/LVTn1N0)
+![HomePage](https://i.imgur.com/pNflWSd.png)
+![Pagination](https://i.imgur.com/LVTn1N0.png)

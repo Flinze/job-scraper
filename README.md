@@ -1,5 +1,5 @@
 # job-scraper
-A job scraping web application that scrapes job listings for entry level positions.
+A job basic scraping web application that scrapes job listings for entry level positions. 
 
 # To run locally:
 Client:

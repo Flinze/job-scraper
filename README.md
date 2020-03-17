@@ -1,5 +1,4 @@
 # job-scraper
-<<<<<<< HEAD
 To run locally:
 Client:
  From root folder, go into client and run "npm start"
@@ -10,8 +9,6 @@ API:
 Redis (only need to do this step once):
     1. Run redis server with: "redis-server" in root
     2. Can run CLI with "redis-cli" in root
-=======
->>>>>>> 202e48d42d4ef45dabfcc8e3b3f9139e2113c9a5
 
 # Front-end:
 React
@@ -29,7 +26,8 @@ Node
 - "Worker" component: 
     - fetches job listings with "node-fetch" from various websites (e.g. GitHub jobs) from tasks folder
     - "node-cron" job which is a task scheduler that runs our fetching script every x amount of time (e.g. 1 minute)
-<<<<<<< HEAD
         - Found a neat website to figure out scheduler timings: https://crontab.guru/
-=======
->>>>>>> 202e48d42d4ef45dabfcc8e3b3f9139e2113c9a5
+        
+# Project Screens
+![HomePage](https://imgur.com/pNflWSd)
+![Pagination](https://imgur.com/LVTn1N0)
